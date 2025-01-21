@@ -4,4 +4,4 @@ gradio
 gradio_pdf
 fastapi
 uvicorn
-magic-pdf[full]
+magic-pdf[full]==0.10.5
